@@ -8,5 +8,5 @@
 	<title>Alta de Carrera</title>
 </head>
 <body>
-  <h1 class="h1"> Ola </h1>
+  <h1 class="h1"> Hola </h1>
 </body>
