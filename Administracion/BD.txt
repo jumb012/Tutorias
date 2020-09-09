@@ -1,0 +1,27 @@
+
+Para entrar a la base de datos es necesario entrar a esta
+pagina:
+
+1.-
+  https://databases.000webhost.com/
+
+  usuario: id14799456_ad1
+  contraseña: Administrador-01
+
+  el nombre de la base datos es:
+   **-> id14799456_tutorias <-**
+
+//////////////////////////////////////////////////
+2.- 
+  HOST: remotemysql.com
+  Usuario: o32YIXCfXY
+  Contraseña: v9peRDGP6R
+  Port: 3306
+
+  el nombre de la base datos es:
+   **-> o32YIXCfXY <-**
+
+==============================================
+NOTA* Si ven que las datos de usuario y contraseña son 
+      distintos es debido a que se esta usando servicios 
+      gratuitos.

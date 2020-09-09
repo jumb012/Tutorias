@@ -1,0 +1,26 @@
+==============================================
+==============================================
+
+Para la conexión FTP la dirección es la sig.
+
+ftp://appetizing-certific:tutorias01@files.000webhost.com/
+
+    == DATOS==
+    HOST: files.000webhost.com
+    Usuario: appetizing-certific
+    contraseña: tutorias01
+
+//////////////////////////////////////////////////
+ftp://epiz_26686329:tutorias01@ftpupload.net
+
+    == DATOS==
+    HOST: ftpupload.net
+    Usuario: epiz_26686329
+    Contraseña: tutorias01
+    Port: 21
+  con este servicio poner archivos dentro de la carpeta:
+  "htdocs".
+==============================================
+NOTA* Si ven que las datos de usuario y contraseña son 
+      distintos es debido a que se esta usando servicios 
+      gratuitos.

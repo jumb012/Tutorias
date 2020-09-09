@@ -1,0 +1,15 @@
+LISTA DE ACTIVIDADES
+Equipo 1:
+  * Home
+  * Formulario para ser Asesor par
+  * Pantalla de perfil de alumno
+
+Equipo 2:
+  * Lista de asesores 
+  * Solicitud de asesoria
+  * Lista de asesorias
+
+Equipo 3:
+  * Login y Registro
+  * Alta de carrera
+  * Alta de maestros
