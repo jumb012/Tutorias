@@ -6,10 +6,6 @@
 <html>
 <head>
 	<title>Alta de Carrera</title>
-	ya lo puse en estilos
-
-
-
 </head>
 <body>
 <form>
